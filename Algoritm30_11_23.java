@@ -1,5 +1,5 @@
 package PACKAGE_NAME;public class Algoritm30_11_23 {
-     1 уровень сложности: Level 1
+   //  1 уровень сложности: Level 1
 //        Какова временная сложность?
 //        void test1(int n){
 //            if (n==1)
